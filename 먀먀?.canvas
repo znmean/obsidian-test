@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9c5c9977f488559d","x":-360,"y":-160,"width":65,"height":28,"type":"text","text":"나"},
+		{"id":"461fccfb17d93ae2","x":-233,"y":-400,"width":250,"height":60,"type":"text","text":"데이터"},
+		{"id":"cb529ec7ff965479","x":-143,"y":-280,"width":160,"height":58,"type":"text","text":"프로그래밍"},
+		{"id":"2a3ff20371daebe8","x":320,"y":-370,"width":250,"height":60,"type":"text","text":"어떤 사람들"},
+		{"id":"01f5fb6a4d4faa90","x":382,"y":-188,"width":127,"height":57,"type":"text","text":"많은 사람들"},
+		{"id":"6c5fbb725897f490","x":-519,"y":140,"width":192,"height":54,"type":"text","text":"같이 먹기 좋아함"},
+		{"id":"38c5baf608c28a82","x":-673,"y":340,"width":250,"height":60,"type":"text","text":"자본금 별로 없음"},
+		{"id":"25abb982ca4ccaf7","x":-14,"y":60,"width":63,"height":60,"type":"text","text":"술"},
+		{"id":"e1c9a07b13dffead","x":180,"y":120,"width":102,"height":60,"type":"text","text":"특징"},
+		{"id":"b8ee9e2d637e25eb","x":106,"y":280,"width":250,"height":60,"type":"text","text":"혼자 먹기 좋은 술이 있음 (맥주)"},
+		{"id":"0c62fa6fb3a3bb8f","x":382,"y":167,"width":250,"height":60,"type":"text","text":"한 번에 다 먹기 힘든 술이 있음"},
+		{"id":"7e891c1260e9b03b","x":446,"y":280,"width":250,"height":60,"type":"text","text":"나눠먹기 좋음 소셜해짐"},
+		{"id":"099ba9df2d39561b","x":125,"y":443,"width":275,"height":57,"type":"text","text":"언소셜한 술도 좀 괜찮지 않을까?\n(근데 선점효과 없어짐?)"}
+	],
+	"edges":[
+		{"id":"2de3b4364b6da289","fromNode":"9c5c9977f488559d","fromSide":"right","toNode":"25abb982ca4ccaf7","toSide":"top","label":"어느정도 암"},
+		{"id":"f113e50fbfa35c1c","fromNode":"9c5c9977f488559d","fromSide":"bottom","toNode":"25abb982ca4ccaf7","toSide":"left","label":"음식과 매칭하기 좋아함"},
+		{"id":"75f06cd0a4cc84ff","fromNode":"9c5c9977f488559d","fromSide":"top","toNode":"461fccfb17d93ae2","toSide":"left"},
+		{"id":"a709fdcb1999386f","fromNode":"25abb982ca4ccaf7","fromSide":"right","toNode":"e1c9a07b13dffead","toSide":"left"}
+	]
+}

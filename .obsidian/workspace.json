@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dbce9d550c0ed174",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cd8958db95dbfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1213860beecef35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "413282f9bb310ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "드레싱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e0463f5c8deab7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b602a384ea56ecd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ebee731caab853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d7146747ff8c756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22026b453e82cf50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ee0b1c35909e148",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a257edd64c6182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4a295f0edc1404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "드레싱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "425c49ad4f3ebfd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "드레싱.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce15d0ce719902a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "572052a98669a59e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "드레싱.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4ebee731caab853",
+  "lastOpenFiles": [
+    "폴더",
+    "먀먀?.canvas",
+    "드레싱.md"
+  ]
+}
