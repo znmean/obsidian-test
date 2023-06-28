@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4df2866e0e0e2064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "소문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "드레싱.md",
+                "file": "소문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "드레싱.md",
+                "file": "소문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "드레싱.md"
+                "file": "소문.md"
               }
             }
           }
@@ -155,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ebee731caab853",
+  "active": "4df2866e0e0e2064",
   "lastOpenFiles": [
+    "드레싱.md",
+    "소문.md",
     "폴더",
-    "먀먀?.canvas",
-    "드레싱.md"
+    "먀먀?.canvas"
   ]
 }
