@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "85cd8958db95dbfc",
+        "id": "a65627963ad4edb2",
         "type": "tabs",
         "children": [
           {
-            "id": "d1213860beecef35",
+            "id": "9f4a816355f279f8",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "413282f9bb310ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "드레싱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4df2866e0e0e2064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "드레싱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "드레싱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "드레싱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "드레싱.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4df2866e0e0e2064",
+  "active": "9f4a816355f279f8",
   "lastOpenFiles": [
-    "소문.md",
     "드레싱.md",
+    "소문.md",
     "먀먀?.canvas",
     "폴더"
   ]
